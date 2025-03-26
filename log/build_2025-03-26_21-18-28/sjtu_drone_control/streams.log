@@ -1,0 +1,28 @@
+[0.744s] Invoking command in '/home/rocky/project_ws/build/sjtu_drone_control': PYTHONPATH=/home/rocky/project_ws/build/sjtu_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rocky/project_ws/install/sjtu_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rocky/project_ws/build/sjtu_drone_control/build --no-deps symlink_data
+[1.020s] running develop
+[1.194s] running egg_info
+[1.194s] creating sjtu_drone_control.egg-info
+[1.194s] writing sjtu_drone_control.egg-info/PKG-INFO
+[1.194s] writing dependency_links to sjtu_drone_control.egg-info/dependency_links.txt
+[1.194s] writing entry points to sjtu_drone_control.egg-info/entry_points.txt
+[1.195s] writing requirements to sjtu_drone_control.egg-info/requires.txt
+[1.195s] writing top-level names to sjtu_drone_control.egg-info/top_level.txt
+[1.195s] writing manifest file 'sjtu_drone_control.egg-info/SOURCES.txt'
+[1.196s] reading manifest file 'sjtu_drone_control.egg-info/SOURCES.txt'
+[1.197s] writing manifest file 'sjtu_drone_control.egg-info/SOURCES.txt'
+[1.198s] running build_ext
+[1.198s] Creating /home/rocky/project_ws/install/sjtu_drone_control/lib/python3.10/site-packages/sjtu-drone-control.egg-link (link to .)
+[1.199s] Installing drone_position_control script to /home/rocky/project_ws/install/sjtu_drone_control/lib/sjtu_drone_control
+[1.199s] Installing open_loop_control script to /home/rocky/project_ws/install/sjtu_drone_control/lib/sjtu_drone_control
+[1.200s] Installing teleop script to /home/rocky/project_ws/install/sjtu_drone_control/lib/sjtu_drone_control
+[1.200s] Installing teleop_joystick script to /home/rocky/project_ws/install/sjtu_drone_control/lib/sjtu_drone_control
+[1.200s] 
+[1.200s] Installed /home/rocky/project_ws/build/sjtu_drone_control
+[1.201s] running symlink_data
+[1.201s] creating /home/rocky/project_ws/install/sjtu_drone_control/share/ament_index
+[1.201s] creating /home/rocky/project_ws/install/sjtu_drone_control/share/ament_index/resource_index
+[1.202s] creating /home/rocky/project_ws/install/sjtu_drone_control/share/ament_index/resource_index/packages
+[1.202s] symbolically linking /home/rocky/project_ws/build/sjtu_drone_control/resource/sjtu_drone_control -> /home/rocky/project_ws/install/sjtu_drone_control/share/ament_index/resource_index/packages
+[1.202s] symbolically linking /home/rocky/project_ws/build/sjtu_drone_control/package.xml -> /home/rocky/project_ws/install/sjtu_drone_control/share/sjtu_drone_control
+[1.202s] creating /home/rocky/project_ws/install/sjtu_drone_control/share/sjtu_drone_control/drone_utlis
+[1.232s] Invoked command in '/home/rocky/project_ws/build/sjtu_drone_control' returned '0': PYTHONPATH=/home/rocky/project_ws/build/sjtu_drone_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rocky/project_ws/install/sjtu_drone_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rocky/project_ws/build/sjtu_drone_control/build --no-deps symlink_data

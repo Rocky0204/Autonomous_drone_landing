@@ -1,0 +1,1 @@
+/home/rocky/project_ws/src/sjtu_drone/sjtu_drone_description/include/sjtu_drone_description/plugin_drone_private.h

@@ -1,0 +1,3 @@
+/home/rocky/project_ws/install/sjtu_drone_description/lib/libplugin_drone.so
+/home/rocky/project_ws/install/sjtu_drone_description/share/sjtu_drone_description/cmake/export_sjtu_drone_descriptionExport.cmake
+/home/rocky/project_ws/install/sjtu_drone_description/share/sjtu_drone_description/cmake/export_sjtu_drone_descriptionExport-noconfig.cmake

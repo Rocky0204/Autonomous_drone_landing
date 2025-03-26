@@ -1,0 +1,1 @@
+/home/rocky/project_ws/src/sjtu_drone/sjtu_drone_bringup/launch/drone.launch.py
